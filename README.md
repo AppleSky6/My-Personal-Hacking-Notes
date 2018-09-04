@@ -21,34 +21,34 @@ Table Of Contents :
 Tools | Type
 ---- | ----
 [nmap](#) 			| Enumeration
-[metasploit]()								| Exploitation
-[searchsploit]()								| Exploitation
-[dirbuster]() 						| Web Enumeration
-[gobuster]() 										| Web Enumeration
-[dirb]() | Web Enumeration
-[nikto]() 						| Web Enumeration
-[wpscan]() 	| Web Enumeration
-[joomscan]() 								| Web Enumeration
-[droopescan]() 						| Web Enumeration
-[sqlmap]()          | Web Exploitation
-[burp suite]() 							| Web Enumeration/Exploitation
-[wfuzz]() 			| Web Enumeration/Exploitation
-[curl]() 			| Web Enumeration/Exploitation
-[gdb]()      | Reverse Engineering / ExploitDev
-[gdb-peda]() 							| Reverse Engineering / ExploitDev 
-[gdb-gef]() 							| Reverse Engineering / ExploitDev 
-[radare2]() 				| Reverse Engineering / ExploitDev
-[IDA-Pro]() 									 | Reverse Engineering / ExploitDev 
-[OllyDbg]() 	| Reverse Engineering / ExploitDev 
-[pwntools]() 	| Exploitdev Library
-[mimikatz]() 						| Post Exploitation
-[impacket]() 								| Windows Security
-[Veil]() 						| AV Bypass
-[cewl]() | Enumeration
-[hashcat]() 						| Password Cracking
-[johntheripper]() 							| Password Cracking
-[hydra]() 								| Password Cracking
-[SET]() 								| Social Engineering 
+[metasploit](#)								| Exploitation
+[searchsploit](#)								| Exploitation
+[dirbuster](#) 						| Web Enumeration
+[gobuster](#) 										| Web Enumeration
+[dirb](#) | Web Enumeration
+[nikto](#) 						| Web Enumeration
+[wpscan](#) 	| Web Enumeration
+[joomscan](#) 								| Web Enumeration
+[droopescan](#) 						| Web Enumeration
+[sqlmap](#)          | Web Exploitation
+[burp suite](#) 							| Web Enumeration/Exploitation
+[wfuzz](#) 			| Web Enumeration/Exploitation
+[curl](#) 			| Web Enumeration/Exploitation
+[gdb](#)      | Reverse Engineering / ExploitDev
+[gdb-peda](https://github.com/longld/peda) 							| Reverse Engineering / ExploitDev 
+[gdb-gef](https://github.com/hugsy/gef) 							| Reverse Engineering / ExploitDev 
+[radare2](#) 				| Reverse Engineering / ExploitDev
+[IDA-Pro](#) 									 | Reverse Engineering / ExploitDev 
+[OllyDbg](#) 	| Reverse Engineering / ExploitDev 
+[pwntools](https://github.com/Gallopsled/pwntools) 	| Exploitdev Library
+[mimikatz](#) 						| Post Exploitation
+[impacket](https://github.com/CoreSecurity/impacket) 								| Windows Security
+[Veil](https://github.com/Veil-Framework/Veil) 						| AV Bypass
+[cewl](#) | Enumeration
+[hashcat](#) 						| Password Cracking
+[johntheripper](#) 							| Password Cracking
+[hydra](#) 								| Password Cracking
+[SET](#) 								| Social Engineering 
 
 ### 2. Cheat Sheets
 
