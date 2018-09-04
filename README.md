@@ -72,28 +72,35 @@ Site | Description
 
 ### 4. Linux Privilege Escalation
 
-Sites | Description
+Site | Description
 ---- | ----
-[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
-[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
+[g0tmi1k](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) 			| Linux Priv Esc Cheat Sheet
+[Rebootuser](https://www.rebootuser.com/?p=1623)								| Linux Priv Esc Cheat Sheet
+[0x00sec](https://0x00sec.org/t/enumeration-for-linux-privilege-escalation/1959)								| Linux Priv Esc Cheat Sheet
+[payatu](https://payatu.com/guide-linux-privilege-escalation/)								| Linux Priv Esc Cheat Sheet
+[touhidshaikh](http://touhidshaikh.com/blog/?p=790)								| Abusing SUDO
+[n4ckhcker-hadi](https://www.exploit-db.com/docs/english/44592-linux-restricted-shell-bypass-guide.pdf)								| rbash bypass
+[speakerdeck](https://speakerdeck.com/knaps/escape-from-shellcatraz-breaking-out-of-restricted-unix-shells)								| rbash bypass
+[sans](https://pen-testing.sans.org/blog/2012/06/06/escaping-restricted-linux-shells)								| rbash bypass
+[netsec](https://netsec.ws/?p=309)								| Linux Priv Esc Scripts
 
 ### 5. Windows Privilege Escalation
 
-Sites | Description
+Site | Description
 ---- | ----
 [LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
 [ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
 
 ### 6. Other Useful Resources
 
-Sites | Description
+Site | Description
 ---- | ----
 [LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
 [ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
 
 ### 7. Favorite Youtube Channels
 
-Channels | Description
+Channel | Description
 ---- | ----
 [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) 			| Binary Hacking/Web ++
 [ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)								| HackTheBox Writeups ++
