@@ -13,6 +13,7 @@ Table Of Contents :
 - Windows Privilege Escalation
 - Active Directory Pentesting
 - Programming
+- Binary Hacking Tutorials
 - Free Paid Courses
 - Favorite YouTube Channels
 
@@ -64,6 +65,7 @@ Cheat Sheets | Type
 [sqlmap - cheat sheet](https://github.com/aramosf/sqlmap-cheatsheet/blob/master/sqlmap%20cheatsheet%20v1.0-SBD.pdf) 										| Web Explotation
 [curl - cheat sheet](https://www.cheatography.com/deleted-18501/cheat-sheets/curl-cheat-sheet/) | Web Enumeration/Exploitation
 [TTY Shell - cheat sheet](https://netsec.ws/?p=337) | Exploitation
+[Reverse Shell - cheat sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) | Exploitation
 
 ### 3. Hacking Practise
 
@@ -128,7 +130,16 @@ Language | Description
 [Assembly For Hackers](https://www.youtube.com/watch?v=K0g-twyhmQ4&list=PLue5IPmkmZ-P1pDbF3vSQtuNquX0SZHpB)								| Assembly For Hackers 
 [Assembly](https://www.aldeid.com/wiki/Category:Architecture/x86-assembly)								| Assembly "Cheat Sheet"
 
-### 8. Free Paid Courses
+### 8. Binary Hacking Tutorials
+
+Language | Description
+---- | ----
+[dhavalkapil](https://dhavalkapil.com/blogs/Buffer-Overflow-Exploit/) 			| Buffer Overflow Tutorial
+[exploit-db](https://www.exploit-db.com/docs/english/28475-linux-stack-based-buffer-overflows.pdf)								| Buffer Overflow Tutorial
+[exploit-db](https://www.exploit-db.com/docs/english/28553-linux-classic-return-to-libc-&-return-to-libc-chaining-tutorial.pdf)								| Return to libc 
+[exploit-db](https://www.exploit-db.com/docs/english/28479-return-oriented-programming-(rop-ftw).pdf)								| ROP
+
+### 9. Free Paid Courses
 
 Site | Description
 ---- | ----
@@ -136,7 +147,7 @@ Site | Description
 [Sans](https://mega.nz/#F!ZZYRlTYb!YjFuu6oR0LEHRZD03aoUdg)								| Sans Courses
 [More Here](https://0x00sec.org/t/knowledge-is-free/6270)								| More Courses
 
-### 9. Favorite Youtube Channels
+### 10. Favorite Youtube Channels
 
 Channel | Description
 ---- | ----
