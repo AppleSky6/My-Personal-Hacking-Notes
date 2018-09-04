@@ -26,10 +26,10 @@ Tool/Cheat Sheet | Type
 [mimikatz](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
 [impacket](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
 [Veil](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
-[Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) | List of Awesome Red Team / Red Teaming Resources
-[Reversing](https://github.com/fdivrp/awesome-reversing) 						| List of awesome reverse engineering resources
-[Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
-[SecLists](https://github.com/danielmiessler/SecLists) 								| Collection of multiple types of lists used during security assessments
+[cewl](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) | List of Awesome Red Team / Red Teaming Resources
+[hashcat](https://github.com/fdivrp/awesome-reversing) 						| List of awesome reverse engineering resources
+[johntheripper](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
+[hydra](https://github.com/danielmiessler/SecLists) 								| Collection of multiple types of lists used during security assessments
 [Security](https://github.com/sbilly/awesome-security) 								| Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
 [Social Engineering](https://github.com/v2-dev/awesome-social-engineering) | List of awesome social engineering resources
 [Static Analysis](https://github.com/mre/awesome-static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
