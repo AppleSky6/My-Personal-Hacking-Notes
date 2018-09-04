@@ -39,7 +39,10 @@ Cheat Sheets | Type
 ---- | ----
 [nmap - cheat sheet](https://github.com/ashishb/android-security-awesome) 			| -
 [metasploit - cheat sheet](https://github.com/paragonie/awesome-appsec)								| -
+[meterpreter - cheat sheet](https://github.com/paragonie/awesome-appsec)								| -
+[msfvenom - cheat sheet](https://github.com/paragonie/awesome-appsec)								| -
+[netcat - cheat sheet](https://github.com/paragonie/awesome-appsec)								| -
 [gdb - cheat sheet](https://github.com/djadmin/awesome-bug-bounty) 						| -
+[radare2 - cheat sheet](https://github.com/devsecops/awesome-devsecops) 						| -
 [sqlmap - cheat sheet](https://github.com/apsdehal/awesome-ctf) 										| -
 [curl - cheat sheet](https://github.com/joe-shenouda/awesome-cyber-skills) | -
-[radare2 - cheat sheet](https://github.com/devsecops/awesome-devsecops) 						| -
