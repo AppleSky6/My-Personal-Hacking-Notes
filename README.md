@@ -3,6 +3,8 @@ I made this repository to help the new members on this field with my own persona
 
 (Maybe i forgot to add some of my notes but i'll do daily updates!)
 
+Also you can find my own writeups/tutorials on medium : [n4ckhcker-medium](https://medium.com/@n4ckhcker)
+
 ### 1. Tools
 
 Tools | Type
@@ -48,3 +50,20 @@ Cheat Sheets | Type
 [radare2 - cheat sheet](https://github.com/devsecops/awesome-devsecops) 						| -
 [sqlmap - cheat sheet](https://github.com/apsdehal/awesome-ctf) 										| -
 [curl - cheat sheet](https://github.com/joe-shenouda/awesome-cyber-skills) | -
+
+### 3. Hacking Practise
+
+Cheat Sheets | Type
+---- | ----
+[Vulnhub](https://github.com/ashishb/android-security-awesome) 			| -
+[HackTheBox](https://github.com/paragonie/awesome-appsec)								| -
+[pwnable.kr](https://github.com/paragonie/awesome-appsec)								| -
+[webhacking.kr](https://github.com/joe-shenouda/awesome-cyber-skills) | 
+[Reversing.kr](https://github.com/joe-shenouda/awesome-cyber-skills) | -
+[pwnable.tw](https://github.com/paragonie/awesome-appsec)								| -
+[Over The Wire](https://github.com/paragonie/awesome-appsec)								| -
+[root-me.org](https://github.com/djadmin/awesome-bug-bounty) 						| -
+[Ringzer0Team](https://github.com/devsecops/awesome-devsecops) 						| -
+[Exploit Exercises](https://github.com/apsdehal/awesome-ctf) 										| -
+[ROP Emporium](https://github.com/joe-shenouda/awesome-cyber-skills) | -
+[PentesterLab](https://github.com/joe-shenouda/awesome-cyber-skills) | -
