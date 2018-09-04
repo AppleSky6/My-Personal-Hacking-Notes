@@ -99,8 +99,12 @@ Site | Description
 
 Site | Description
 ---- | ----
-[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
-[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
+[exumbraops](http://www.exumbraops.com/penetration-testing-102-windows-privilege-escalation-cheatsheet/) 			| Windows Privilege Escalation Techniques
+[pentestblog](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/) 			| Windows Privilege Escalation Techniques
+[Rahmat Nurfauzi](https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194) 			| Windows Privilege Escalation Techniques
+[FuzzySecurity](http://www.fuzzysecurity.com/tutorials/16.html) 			| Windows Privilege Escalation Techniques
+[HackingArticles](http://www.hackingarticles.in/7-ways-to-privilege-escalation-of-windows-7-pc-bypass-uac/) 			| Windows Privilege Escalation Techniques
+[bhafsec](http://www.bhafsec.com/wiki/index.php/Windows_Privilege_Escalation) 			| Windows Privilege Escalation Techniques
 
 ### 6. Programming
 
