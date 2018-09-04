@@ -70,30 +70,30 @@ Site | Description
 [ROP Emporium](https://github.com/joe-shenouda/awesome-cyber-skills) | ROP Attack Challenges
 [PentesterLab](https://github.com/joe-shenouda/awesome-cyber-skills) | Web Hacking Challenges
 
-### 4. Favorite Youtube Channels
+### 4. Linux Privilege Escalation
+
+Sites | Description
+---- | ----
+[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
+[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
+
+### 5. Windows Privilege Escalation
+
+Sites | Description
+---- | ----
+[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
+[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
+
+### 6. Other Useful Resources
+
+Sites | Description
+---- | ----
+[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
+[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
+
+### 7. Favorite Youtube Channels
 
 Channels | Description
 ---- | ----
-[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
-[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
-
-### 5. Linux Privilege Escalation
-
-Sites | Description
----- | ----
-[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
-[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
-
-### 6. Windows Privilege Escalation
-
-Sites | Description
----- | ----
-[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
-[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
-
-### 7. Other Useful Resources
-
-Sites | Description
----- | ----
-[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
-[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
+[LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) 			| Binary Hacking/Web ++
+[ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)								| HackTheBox Writeups ++
