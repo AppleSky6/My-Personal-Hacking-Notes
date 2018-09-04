@@ -11,6 +11,7 @@ Tools | Type
 ---- | ----
 [nmap](https://github.com/ashishb/android-security-awesome) 			| Enumeration
 [metasploit](https://github.com/paragonie/awesome-appsec)								| Exploitation
+[searchsploit](https://github.com/paragonie/awesome-appsec)								| Exploitation
 [dirbuster](https://github.com/djadmin/awesome-bug-bounty) 						| Web Enumeration
 [gobuster](https://github.com/apsdehal/awesome-ctf) 										| Web Enumeration
 [dirb](https://github.com/joe-shenouda/awesome-cyber-skills) | Web Enumeration
@@ -53,14 +54,14 @@ Cheat Sheets | Type
 
 ### 3. Hacking Practise
 
-Cheat Sheets | Type
+Site | Type
 ---- | ----
 [Vulnhub](https://github.com/ashishb/android-security-awesome) 			| -
 [HackTheBox](https://github.com/paragonie/awesome-appsec)								| -
 [pwnable.kr](https://github.com/paragonie/awesome-appsec)								| -
+[pwnable.tw](https://github.com/paragonie/awesome-appsec)								| -
 [webhacking.kr](https://github.com/joe-shenouda/awesome-cyber-skills) | 
 [Reversing.kr](https://github.com/joe-shenouda/awesome-cyber-skills) | -
-[pwnable.tw](https://github.com/paragonie/awesome-appsec)								| -
 [Over The Wire](https://github.com/paragonie/awesome-appsec)								| -
 [root-me.org](https://github.com/djadmin/awesome-bug-bounty) 						| -
 [Ringzer0Team](https://github.com/devsecops/awesome-devsecops) 						| -
