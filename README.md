@@ -55,24 +55,24 @@ Cheat Sheets | Type
 
 ### 3. Hacking Practise
 
-Site | Type
+Site | Description
 ---- | ----
-[Vulnhub](https://github.com/ashishb/android-security-awesome) 			| -
-[HackTheBox](https://github.com/paragonie/awesome-appsec)								| -
-[pwnable.kr](https://github.com/paragonie/awesome-appsec)								| -
-[pwnable.tw](https://github.com/paragonie/awesome-appsec)								| -
-[webhacking.kr](https://github.com/joe-shenouda/awesome-cyber-skills) | 
-[Reversing.kr](https://github.com/joe-shenouda/awesome-cyber-skills) | -
-[Over The Wire](https://github.com/paragonie/awesome-appsec)								| -
-[root-me.org](https://github.com/djadmin/awesome-bug-bounty) 						| -
-[Ringzer0Team](https://github.com/devsecops/awesome-devsecops) 						| -
-[Exploit Exercises](https://github.com/apsdehal/awesome-ctf) 										| -
-[ROP Emporium](https://github.com/joe-shenouda/awesome-cyber-skills) | -
-[PentesterLab](https://github.com/joe-shenouda/awesome-cyber-skills) | -
+[Vulnhub](https://github.com/ashishb/android-security-awesome) 			| Vulnerable Machines (Download)
+[HackTheBox](https://github.com/paragonie/awesome-appsec)								| Amazing Penetration Testing Lab (ovpn)
+[pwnable.kr](https://github.com/paragonie/awesome-appsec)								| Binary Hacking Challenges +
+[pwnable.tw](https://github.com/paragonie/awesome-appsec)								| Binary Hacking Challenges Advance ++
+[webhacking.kr](https://github.com/joe-shenouda/awesome-cyber-skills) | Web Hacking Challenges 
+[Reversing.kr](https://github.com/joe-shenouda/awesome-cyber-skills) | Reversing Challenges
+[Over The Wire](https://github.com/paragonie/awesome-appsec)								| Different types of wargames (ssh)
+[root-me.org](https://github.com/djadmin/awesome-bug-bounty) 						| Ton of challenges (web/reverse/system++)
+[Ringzer0Team](https://github.com/devsecops/awesome-devsecops) 						| Ton of challenges (web/reverse/system++)
+[Exploit Exercises](https://github.com/apsdehal/awesome-ctf) 										| Binary hacking/System Challenges
+[ROP Emporium](https://github.com/joe-shenouda/awesome-cyber-skills) | ROP Attack Challenges
+[PentesterLab](https://github.com/joe-shenouda/awesome-cyber-skills) | Web Hacking Challenges
 
 ### 4. Favorite Youtube Channels
 
-Channels | Type
+Channels | Description
 ---- | ----
-[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| -
-[ippsec](https://github.com/paragonie/awesome-appsec)								| -
+[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
+[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
