@@ -23,12 +23,12 @@ Tools | Type
 [burp suite](https://github.com/paralax/awesome-honeypots) 							| Web Enumeration/Exploitation
 [wfuzz](https://github.com/meirwah/awesome-incident-response) 			| Web Enumeration/Exploitation
 [curl](https://github.com/meirwah/awesome-incident-response) 			| Web Enumeration/Exploitation
-[gdb](https://github.com/hslatman/awesome-industrial-control-system-security)      | Reverse Engineering / ExploitDev / Pwn
-[gdb-peda](https://github.com/onlurking/awesome-infosec) 							| Reverse Engineering / ExploitDev / Pwn
-[gdb-gef](https://github.com/nebgnahz/awesome-iot-hacks) 							| Reverse Engineering / ExploitDev / Pwn
-[radare2](https://github.com/rshipp/awesome-malware-analysis) 				| Reverse Engineering / ExploitDev / Pwn
-[IDA-Pro](https://github.com/jivoi/awesome-osint) 									 | Reverse Engineering / ExploitDev / Pwn
-[OllyDbg](https://github.com/ashishb/osx-and-ios-security-awesome) 	| Reverse Engineering / ExploitDev / Pwn
+[gdb](https://github.com/hslatman/awesome-industrial-control-system-security)      | Reverse Engineering / ExploitDev
+[gdb-peda](https://github.com/onlurking/awesome-infosec) 							| Reverse Engineering / ExploitDev 
+[gdb-gef](https://github.com/nebgnahz/awesome-iot-hacks) 							| Reverse Engineering / ExploitDev 
+[radare2](https://github.com/rshipp/awesome-malware-analysis) 				| Reverse Engineering / ExploitDev
+[IDA-Pro](https://github.com/jivoi/awesome-osint) 									 | Reverse Engineering / ExploitDev 
+[OllyDbg](https://github.com/ashishb/osx-and-ios-security-awesome) 	| Reverse Engineering / ExploitDev 
 [pwntools](https://github.com/ashishb/osx-and-ios-security-awesome) 	| Exploitdev Library
 [mimikatz](https://github.com/caesar0301/awesome-pcaptools) 						| Post Exploitation
 [impacket](https://github.com/enaqx/awesome-pentest) 								| Windows Security
@@ -43,15 +43,15 @@ Tools | Type
 
 Cheat Sheets | Type
 ---- | ----
-[nmap - cheat sheet](https://github.com/ashishb/android-security-awesome) 			| -
-[metasploit - cheat sheet](https://github.com/paragonie/awesome-appsec)								| -
-[meterpreter - cheat sheet](https://github.com/paragonie/awesome-appsec)								| -
-[msfvenom - cheat sheet](https://github.com/paragonie/awesome-appsec)								| -
-[netcat - cheat sheet](https://github.com/paragonie/awesome-appsec)								| -
-[gdb - cheat sheet](https://github.com/djadmin/awesome-bug-bounty) 						| -
-[radare2 - cheat sheet](https://github.com/devsecops/awesome-devsecops) 						| -
-[sqlmap - cheat sheet](https://github.com/apsdehal/awesome-ctf) 										| -
-[curl - cheat sheet](https://github.com/joe-shenouda/awesome-cyber-skills) | -
+[nmap - cheat sheet](https://github.com/ashishb/android-security-awesome) 			| Enumeration
+[metasploit - cheat sheet](https://github.com/paragonie/awesome-appsec)								| Exploitation
+[meterpreter - cheat sheet](https://github.com/paragonie/awesome-appsec)								| Exploitation
+[msfvenom - cheat sheet](https://github.com/paragonie/awesome-appsec)								| Exploitation
+[netcat - cheat sheet](https://github.com/paragonie/awesome-appsec)								| Enumeration/Exploitation
+[gdb - cheat sheet](https://github.com/djadmin/awesome-bug-bounty) 						| Reverse Engineering / ExploitDev
+[radare2 - cheat sheet](https://github.com/devsecops/awesome-devsecops) 						| Reverse Engineering / ExploitDev
+[sqlmap - cheat sheet](https://github.com/apsdehal/awesome-ctf) 										| Web Explotation
+[curl - cheat sheet](https://github.com/joe-shenouda/awesome-cyber-skills) | Web Enumeration/Exploitation
 
 ### 3. Hacking Practise
 
