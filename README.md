@@ -17,15 +17,15 @@ Tool/Cheat Sheet | Type
 [sqlmap](https://github.com/vitalysim/Awesome-Hacking-Resources)          | Collection of hacking / penetration testing resources to make you better!
 [burp suite](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
 [wfuzz](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
-[Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
-[InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
-[IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
-[Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) 				| List of awesome malware analysis tools and resources
-[OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
-[OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
-[Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
-[Pentest](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
-[PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
+[gdb](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
+[gdb-peda](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
+[gdb-gef](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
+[radare2](https://github.com/rshipp/awesome-malware-analysis) 				| List of awesome malware analysis tools and resources
+[IDA-Pro](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
+[OllyDbg](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
+[mimikatz](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
+[impacket](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
+[Veil](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
 [Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) | List of Awesome Red Team / Red Teaming Resources
 [Reversing](https://github.com/fdivrp/awesome-reversing) 						| List of awesome reverse engineering resources
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
