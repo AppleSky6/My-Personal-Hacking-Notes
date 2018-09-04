@@ -29,6 +29,7 @@ Tools | Type
 [radare2](https://github.com/rshipp/awesome-malware-analysis) 				| Reverse Engineering / ExploitDev / Pwn
 [IDA-Pro](https://github.com/jivoi/awesome-osint) 									 | Reverse Engineering / ExploitDev / Pwn
 [OllyDbg](https://github.com/ashishb/osx-and-ios-security-awesome) 	| Reverse Engineering / ExploitDev / Pwn
+[pwntools](https://github.com/ashishb/osx-and-ios-security-awesome) 	| Exploitdev Library
 [mimikatz](https://github.com/caesar0301/awesome-pcaptools) 						| Post Exploitation
 [impacket](https://github.com/enaqx/awesome-pentest) 								| Windows Security
 [Veil](https://github.com/ziadoz/awesome-php#security) 						| AV Bypass
