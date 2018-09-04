@@ -69,3 +69,10 @@ Site | Type
 [Exploit Exercises](https://github.com/apsdehal/awesome-ctf) 										| -
 [ROP Emporium](https://github.com/joe-shenouda/awesome-cyber-skills) | -
 [PentesterLab](https://github.com/joe-shenouda/awesome-cyber-skills) | -
+
+### 4. Favorite Youtube Channels
+
+Channels | Type
+---- | ----
+[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| -
+[ippsec](https://github.com/paragonie/awesome-appsec)								| -
