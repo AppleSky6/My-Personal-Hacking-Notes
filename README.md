@@ -11,6 +11,7 @@ Table Of Contents :
 - Hacking Practise
 - Linux Privilege Escalation
 - Windows Privilege Escalation
+- Active Directory Pentesting
 - Programming
 - Free Paid Courses
 - Favorite YouTube Channels
@@ -106,7 +107,19 @@ Site | Description
 [HackingArticles](http://www.hackingarticles.in/7-ways-to-privilege-escalation-of-windows-7-pc-bypass-uac/) 			| Windows Privilege Escalation Techniques
 [bhafsec](http://www.bhafsec.com/wiki/index.php/Windows_Privilege_Escalation) 			| Windows Privilege Escalation Techniques
 
-### 6. Programming
+### 6. Active Directory Pentesting
+
+Site | Description
+---- | ----
+[ADSecurity](https://adsecurity.org/?p=1684) 			| Common Active Directory Security Issues
+[ADSecurity](https://adsecurity.org/?p=2362) 			| Methods for Gaining Domain Admin Rights
+[ADSecurity](https://adsecurity.org/?p=2398) 			| Dump Active Directory Database Credentials
+[ADSecurity](https://adsecurity.org/?p=1929) 			| Active Directory Persistence Tricks
+[ADSecurity](https://adsecurity.org/?p=2293) 			| Cracking Kerberos TGS Tickets
+[ADSecurity](https://adsecurity.org/?p=2207) 			| Mimikatz Tutorial
+[ADSecurity](https://adsecurity.org/?page_id=399) 			| More Here
+
+### 7. Programming
 
 Language | Description
 ---- | ----
@@ -115,7 +128,7 @@ Language | Description
 [Assembly For Hackers](https://www.youtube.com/watch?v=K0g-twyhmQ4&list=PLue5IPmkmZ-P1pDbF3vSQtuNquX0SZHpB)								| Assembly For Hackers 
 [Assembly](https://www.aldeid.com/wiki/Category:Architecture/x86-assembly)								| Assembly "Cheat Sheet"
 
-### 7. Free Paid Courses
+### 8. Free Paid Courses
 
 Site | Description
 ---- | ----
@@ -123,7 +136,7 @@ Site | Description
 [Sans](https://mega.nz/#F!ZZYRlTYb!YjFuu6oR0LEHRZD03aoUdg)								| Sans Courses
 [More Here](https://0x00sec.org/t/knowledge-is-free/6270)								| More Courses
 
-### 8. Favorite Youtube Channels
+### 9. Favorite Youtube Channels
 
 Channel | Description
 ---- | ----
