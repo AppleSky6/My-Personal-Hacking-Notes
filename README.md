@@ -3,20 +3,20 @@ I made this repository to help the new members on this field with my own persona
 
 ### 1.Tools I Use & Cheat Sheets
 
-Tool/Cheat Sheet | Description
+Tool/Cheat Sheet | Type
 ---- | ----
-[Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
-[AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
-[Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
-[CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
-[Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
-[DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
-[Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development) 	| Resources for learning about Exploit Development
-[Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
-[Hacking](https://github.com/carpedm20/awesome-hacking) 						| List of awesome Hacking tutorials, tools and resources
-[Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)          | Collection of hacking / penetration testing resources to make you better!
-[Honeypots](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
-[Incident Response](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
+[nmap](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
+[metasploit](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
+[dirbuster](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
+[gobuster](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
+[dirb](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
+[nikto](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
+[wpscan](https://github.com/FabioBaroni/awesome-exploit-development) 	| Resources for learning about Exploit Development
+[joomscan](https://github.com/secfigo/Awesome-Fuzzing) 								| List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
+[droopescan](https://github.com/carpedm20/awesome-hacking) 						| List of awesome Hacking tutorials, tools and resources
+[sqlmap](https://github.com/vitalysim/Awesome-Hacking-Resources)          | Collection of hacking / penetration testing resources to make you better!
+[burp suite](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
+[wfuzz](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
 [InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
 [IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
