@@ -12,7 +12,7 @@ Table Of Contents :
 - Linux Privilege Escalation
 - Windows Privilege Escalation
 - Programming
-- Other Useful Resources
+- Free Paid Courses
 - Favorite YouTube Channels
 
 ### 1. Tools
@@ -62,6 +62,7 @@ Cheat Sheets | Type
 [radare2 - cheat sheet](https://github.com/radare/radare2/blob/master/doc/intro.md) 						| Reverse Engineering / ExploitDev
 [sqlmap - cheat sheet](https://github.com/aramosf/sqlmap-cheatsheet/blob/master/sqlmap%20cheatsheet%20v1.0-SBD.pdf) 										| Web Explotation
 [curl - cheat sheet](https://www.cheatography.com/deleted-18501/cheat-sheets/curl-cheat-sheet/) | Web Enumeration/Exploitation
+[TTY Shell - cheat sheet](https://netsec.ws/?p=337) | Exploitation
 
 ### 3. Hacking Practise
 
@@ -110,12 +111,13 @@ Language | Description
 [Assembly For Hackers](https://www.youtube.com/watch?v=K0g-twyhmQ4&list=PLue5IPmkmZ-P1pDbF3vSQtuNquX0SZHpB)								| Assembly For Hackers 
 [Assembly](https://www.aldeid.com/wiki/Category:Architecture/x86-assembly)								| Assembly "Cheat Sheet"
 
-### 7. Other Useful Resources
+### 7. Free Paid Courses
 
 Site | Description
 ---- | ----
-[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
-[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
+[Pentester Academy](https://mega.nz/#F!czhiBKwB!wC2f_IaMEMOWq9cSieTo_A) 			| Pentester Academy Courses
+[Sans](https://mega.nz/#F!ZZYRlTYb!YjFuu6oR0LEHRZD03aoUdg)								| Sans Courses
+[More Here](https://0x00sec.org/t/knowledge-is-free/6270)								| More Courses
 
 ### 8. Favorite Youtube Channels
 
