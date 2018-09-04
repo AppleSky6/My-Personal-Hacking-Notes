@@ -11,6 +11,7 @@ Table Of Contents :
 - Hacking Practise
 - Linux Privilege Escalation
 - Windows Privilege Escalation
+- Programming
 - Other Useful Resources
 - Favorite YouTube Channels
 
@@ -100,14 +101,23 @@ Site | Description
 [LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
 [ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
 
-### 6. Other Useful Resources
+### 6. Programming
+
+Language | Description
+---- | ----
+[Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) 			| Awesome Python Playlist
+[Bash Scripting](https://ryanstutorials.net/bash-scripting-tutorial/)								| Bash Scripting Tutorials
+[Assembly For Hackers](https://www.youtube.com/watch?v=K0g-twyhmQ4&list=PLue5IPmkmZ-P1pDbF3vSQtuNquX0SZHpB)								| Assembly For Hackers 
+[Assembly](https://www.aldeid.com/wiki/Category:Architecture/x86-assembly)								| Assembly "Cheat Sheet"
+
+### 7. Other Useful Resources
 
 Site | Description
 ---- | ----
 [LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
 [ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
 
-### 7. Favorite Youtube Channels
+### 8. Favorite Youtube Channels
 
 Channel | Description
 ---- | ----
