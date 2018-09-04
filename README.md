@@ -52,32 +52,32 @@ Tools | Type
 
 Cheat Sheets | Type
 ---- | ----
-[nmap - cheat sheet](https://github.com/ashishb/android-security-awesome) 			| Enumeration
-[metasploit - cheat sheet](https://github.com/paragonie/awesome-appsec)								| Exploitation
-[meterpreter - cheat sheet](https://github.com/paragonie/awesome-appsec)								| Exploitation
-[msfvenom - cheat sheet](https://github.com/paragonie/awesome-appsec)								| Exploitation
-[netcat - cheat sheet](https://github.com/paragonie/awesome-appsec)								| Enumeration/Exploitation
-[gdb - cheat sheet](https://github.com/djadmin/awesome-bug-bounty) 						| Reverse Engineering / ExploitDev
-[radare2 - cheat sheet](https://github.com/devsecops/awesome-devsecops) 						| Reverse Engineering / ExploitDev
-[sqlmap - cheat sheet](https://github.com/apsdehal/awesome-ctf) 										| Web Explotation
-[curl - cheat sheet](https://github.com/joe-shenouda/awesome-cyber-skills) | Web Enumeration/Exploitation
+[nmap - cheat sheet](https://blogs.sans.org/pen-testing/files/2013/10/NmapCheatSheetv1.1.pdf) 			| Enumeration
+[metasploit - cheat sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)								| Exploitation
+[meterpreter - cheat sheet](https://www.blueliv.com/downloads/Meterpreter_cheat_sheet_v0.1.pdf)								| Exploitation
+[msfvenom - cheat sheet](https://netsec.ws/?p=331)								| Exploitation
+[netcat - cheat sheet](https://netsec.ws/?p=292)								| Enumeration/Exploitation
+[gdb - cheat sheet](http://www.yolinux.com/TUTORIALS/GDB-Commands.html) 						| Reverse Engineering / ExploitDev
+[radare2 - cheat sheet](https://github.com/radare/radare2/blob/master/doc/intro.md) 						| Reverse Engineering / ExploitDev
+[sqlmap - cheat sheet](https://github.com/aramosf/sqlmap-cheatsheet/blob/master/sqlmap%20cheatsheet%20v1.0-SBD.pdf) 										| Web Explotation
+[curl - cheat sheet](https://www.cheatography.com/deleted-18501/cheat-sheets/curl-cheat-sheet/) | Web Enumeration/Exploitation
 
 ### 3. Hacking Practise
 
 Site | Description
 ---- | ----
-[Vulnhub](https://github.com/ashishb/android-security-awesome) 			| Vulnerable Machines (Download)
-[HackTheBox](https://github.com/paragonie/awesome-appsec)								| Amazing Penetration Testing Lab (ovpn)
-[pwnable.kr](https://github.com/paragonie/awesome-appsec)								| Binary Hacking Challenges +
-[pwnable.tw](https://github.com/paragonie/awesome-appsec)								| Binary Hacking Challenges Advance ++
-[webhacking.kr](https://github.com/joe-shenouda/awesome-cyber-skills) | Web Hacking Challenges 
-[Reversing.kr](https://github.com/joe-shenouda/awesome-cyber-skills) | Reversing Challenges
-[Over The Wire](https://github.com/paragonie/awesome-appsec)								| Different types of wargames (ssh)
-[root-me.org](https://github.com/djadmin/awesome-bug-bounty) 						| Ton of challenges (web/reverse/system++)
-[Ringzer0Team](https://github.com/devsecops/awesome-devsecops) 						| Ton of challenges (web/reverse/system++)
-[Exploit Exercises](https://github.com/apsdehal/awesome-ctf) 										| Binary hacking/System Challenges
-[ROP Emporium](https://github.com/joe-shenouda/awesome-cyber-skills) | ROP Attack Challenges
-[PentesterLab](https://github.com/joe-shenouda/awesome-cyber-skills) | Web Hacking Challenges
+[Vulnhub](https://www.vulnhub.com/) 			| Vulnerable Machines (Download)
+[HackTheBox](http://hackthebox.eu/)								| Amazing Penetration Testing Lab (ovpn)
+[pwnable.kr](http://pwnable.kr/)								| Binary Hacking Challenges +
+[pwnable.tw](http://pwnable.tw/)								| Binary Hacking Challenges Advance ++
+[webhacking.kr](http://webhacking.kr/) | Web Hacking Challenges 
+[Reversing.kr](http://reversing.kr/) | Reversing Challenges
+[Over The Wire](http://overthewire.org/wargames/)								| Different types of wargames (ssh)
+[root-me.org](https://www.root-me.org/) 						| Ton of challenges (web/reverse/system++)
+[Ringzer0Team](https://ringzer0team.com/) 						| Ton of challenges (web/reverse/system++)
+[Exploit Exercises](https://exploit-exercises.com/) 										| Binary hacking/System Challenges
+[ROP Emporium](https://ropemporium.com/) | ROP Attack Challenges
+[PentesterLab](https://pentesterlab.com/) | Web Hacking Challenges
 
 ### 4. Linux Privilege Escalation
 
