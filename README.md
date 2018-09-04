@@ -76,3 +76,24 @@ Channels | Description
 ---- | ----
 [LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
 [ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
+
+### 5. Linux Privilege Escalation
+
+Sites | Description
+---- | ----
+[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
+[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
+
+### 6. Windows Privilege Escalation
+
+Sites | Description
+---- | ----
+[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
+[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
+
+### 7. Other Useful Resources
+
+Sites | Description
+---- | ----
+[LiveOverflow](https://github.com/ashishb/android-security-awesome) 			| Binary Hacking/Web ++
+[ippsec](https://github.com/paragonie/awesome-appsec)								| HackTheBox Writeups ++
