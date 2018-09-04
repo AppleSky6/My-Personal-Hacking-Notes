@@ -1,5 +1,5 @@
 # My Personal Hacking Notes | n4ckhcker
-I made this repository to help the new members on this field with my own personal notes, are resources that i use everyday enjoy! :D
+I made this repository to help the new members on this field with my own personal notes! :D
 (Maybe i forgot to add some of my notes but i'll do daily updates!)
 
 ### 1. Tools
