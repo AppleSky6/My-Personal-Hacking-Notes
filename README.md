@@ -1,9 +1,9 @@
 # My Personal Hacking Notes
 I made this repository to help the new members on this field with my own personal notes, are resources that i use everyday enjoy! :D
 
-### 1.Tools I Use & Cheat Sheets
+### 1.Tools I Use
 
-Tool/Cheat Sheet    | Type
+Tools | Type
 ---- | ----
 [nmap](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
 [metasploit](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
