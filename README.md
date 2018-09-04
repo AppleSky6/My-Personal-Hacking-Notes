@@ -3,7 +3,7 @@ I made this repository to help the new members on this field with my own persona
 
 ### 1.Tools I Use & Cheat Sheets
 
-Repository | Description
+Tool/Cheat Sheet | Description
 ---- | ----
 [Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
 [AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
