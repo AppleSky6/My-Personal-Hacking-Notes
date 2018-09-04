@@ -37,9 +37,9 @@ Tools | Type
 
 Cheat Sheets | Type
 ---- | ----
-[nmap](https://github.com/ashishb/android-security-awesome) 			| Enumeration
-[metasploit](https://github.com/paragonie/awesome-appsec)								| Exploitation
-[dirbuster](https://github.com/djadmin/awesome-bug-bounty) 						| Web Enumeration
+[nmap - cheat sheet](https://github.com/ashishb/android-security-awesome) 			| Enumeration
+[metasploit - cheat sheet](https://github.com/paragonie/awesome-appsec)								| Exploitation
+[gdb - cheat sheet](https://github.com/djadmin/awesome-bug-bounty) 						| Web Enumeration
 [gobuster](https://github.com/apsdehal/awesome-ctf) 										| Web Enumeration
 [dirb](https://github.com/joe-shenouda/awesome-cyber-skills) | Web Enumeration
 [nikto](https://github.com/devsecops/awesome-devsecops) 						| Web Enumeration
